@@ -1,7 +1,3 @@
-<p align="center" >
-  <img width="100%" src="./banner v2.png" />
-</p>
-
 ### Welcome to my GitHub page 👋
 
 Crafting interfaces. Building performant software and web experience, trying to achieve minimalism, <br>sharing what i know about design and code, currently a Software Engineering Student.
